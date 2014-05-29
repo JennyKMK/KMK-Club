@@ -1,4 +1,3 @@
-KMK-Club
-========
+KMK-Club========
 
 Offizielle App zur Seite
